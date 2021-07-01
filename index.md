@@ -57,6 +57,8 @@ Alfredo Sánchez Alberca <a href="mailto:asalber@ceu.es"><i class='fa fa-envelop
 - El peso de los ejercicios es arbitrario.
 - Un mismo aspecto o item se puntúa repetidas veces.
 - Dificultad para consensuar criterios de corrección.
+- El alumno no sabe bien de qué y cómo se le va a evaluar.
+- Sin retroalimentación para el alumno (salvo si hace la revisión del examen.)
 
 
 ---
@@ -121,7 +123,13 @@ Tres niveles:<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ## Rúbrica de Estadística Aplicada a las Ciencias de la Salud de 2º de Fisioterapia
 
-<iframe data-src="http://aprendeconalf.es/rubricas/rubrica-estadistica.html" width="945" height="555" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 600%;" allowfullscreen=""></iframe>
+<iframe data-src="https://aprendeconalf.es/rubricas/rubrica-estadistica.html" width="945" height="555" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 600%;" allowfullscreen=""></iframe>
+
+--
+
+## Corrección
+
+![](img/correccion.png)
 
 ---
 
@@ -152,8 +160,13 @@ Tres niveles:<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
-# Aplicación 
+<!-- .slide: data-background="img/aplicacion-evaluacion-rubricas.png" -->
 
+<div id="dark_back">
+
+# APLICACIÓN
+
+</div>
 
 
 ---
