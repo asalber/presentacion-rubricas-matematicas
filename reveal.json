@@ -1,0 +1,9 @@
+{
+  "controls": true,
+  "progress": true,
+  "history": true,
+  "center": false,
+  "slideNumber": true,
+  "parallaxBackgroundImage": "img/ceid.jpg",
+  "parallaxBackgroundSize": "2000px 1125px"
+}
