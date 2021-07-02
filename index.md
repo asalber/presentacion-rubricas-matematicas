@@ -2,12 +2,15 @@
 title: Evaluación por rúbricas en Matemáticas y Estadística
 author: Gloria Anemone y Alfredo Sánchez Alberca
 theme: black
-data-separator-notes: "\nNote:"
+#separator: "\n---\n",
+#verticalSeparator: "\n--\n"
 customTheme : custom
 revealOptions:
     transition: convex
     center: true
-#logoImg: "/img/logo-python.png"
+#logoImg: "/img/logo.png"
+enableChalkboard: false
+enableMenu: false
 ---
 
 <!-- .slide: data-background="img/cied.jpg" -->
@@ -15,7 +18,6 @@ revealOptions:
 <div id="logo">
 <img src="img/logo-uspceu.svg" />
 </div>    
-
 
 **II Congreso CEU de Innovación Educativa y Docente** 
 
@@ -57,9 +59,17 @@ Alfredo Sánchez Alberca <a href="mailto:asalber@ceu.es"><i class='fa fa-envelop
 - El peso de los ejercicios es arbitrario.
 - Un mismo aspecto o item se puntúa repetidas veces.
 - Dificultad para consensuar criterios de corrección.
+- Bastante subjetividad.
 - El alumno no sabe bien de qué y cómo se le va a evaluar.
 - Sin retroalimentación para el alumno (salvo si hace la revisión del examen.)
 
+note:
+-Son más difíciles de evaluar que los exámenes tipo test.  
+-Se otorga un peso a cada ejercicio que no siempre se corresponde con la importancia de los aspectos evaluados en el ejercicio.  
+-En asignaturas de varios profesores es necesario consensuar los criterios de calificación para cada examen.  
+-A pesar de que se usen unos criterios de corrección compartidos, en algunos aspectos queda bastante margen para la subjetividad.  
+-El alumno no sabe a priori cómo se le va a evaluar y ello suele provocar incertidumbre y ansiedad.  
+-El resultado de la evaluación suele ser una nota pero no es habitual pasarle al estudiante la corrección para que tome conciencia de sus fallos.
 
 ---
 
@@ -142,14 +152,12 @@ Tres niveles:<!-- .element: class="fragment" data-fragment-index="1" -->
 - Retroalimenta el proceso de aprendizaje.  
 [4, 5, 6, 7, 9]
 
-<aside class="notes">
-
-- Los items que se evalúan provienen de la descomposición de los resultados de aprendizaje.
-- Al ser items atómicos es más objetivo evaluar cada item. Permite una evaluación más justa en asignaturas impartidas por varios profesores.
-- El alumno sabe a priori qué se espera de su trabajo.
-- Permite tanto al profesor como al alumno identificar los items o aspectos que hay que reforzar.
-- Proporciona una valiosa información para el profesor y el alumno de cara a orientar el proceso de aprendizaje.
-</aside>
+note:
+-Los items que se evalúan provienen de la descomposición de los resultados de aprendizaje.  
+-Al ser items atómicos es más objetivo evaluar cada item. Permite una evaluación más justa en asignaturas impartidas por varios profesores.  
+-El alumno sabe a priori qué se espera de su trabajo.  
+-Permite tanto al profesor como al alumno identificar los items o aspectos que hay que reforzar.  
+-Proporciona una valiosa información para el profesor y el alumno de cara a orientar el proceso de aprendizaje.  
 
 --
 
